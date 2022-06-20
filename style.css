@@ -86,7 +86,6 @@ h1 .subtext {
   color: white;
 }
 
-
 .split-right {
   height: 100%;
   width: 50%;
@@ -115,7 +114,6 @@ h1 .subtext {
 #info {
   margin-bottom: 30px;
 }
-
 
 #loader,
 #loader:before,
@@ -237,7 +235,7 @@ h1 .subtext {
     font-size: 28px;
     font-weight: bold;
 }
-
+//great code
 #close-modal:hover,
 #close-modal:focus {
     color: black;
